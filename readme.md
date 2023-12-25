@@ -1,5 +1,5 @@
 # SDRSharp Net Remote Re-Work based on the Original of Al Brown 
-https://github.com/EarToEarOak/SDRSharp-Net-Remote
+The original version https://github.com/EarToEarOak/SDRSharp-Net-Remote will no longer work with SDRSharp Sudio!
 
 
 Work in Progress...
