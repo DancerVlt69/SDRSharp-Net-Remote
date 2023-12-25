@@ -3,3 +3,4 @@
 * v1.3alpha
   * some changes & updates in the Read.me
   * adding Changelog.me
+  * updated some settings & NetFramework files
