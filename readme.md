@@ -1,5 +1,6 @@
-# SDRSharp Net Remote Re-Work based on the Original of Al Brown 
-https://github.com/EarToEarOak/SDRSharp-Net-Remote
+#
+SDRSharp Net Remote Re-Work based on the Original of Al Brown 
+you can find on <https://github.com/EarToEarOak/SDRSharp-Net-Remote>
 
 
 Work in Progress...
