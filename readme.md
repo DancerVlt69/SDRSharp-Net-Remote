@@ -1,21 +1,17 @@
-# SDRSharp Net Remote Re-Work based on the Original of Al Brown 
-The original version https://github.com/EarToEarOak/SDRSharp-Net-Remote will no longer work with SDRSharp Sudio!
+# SDRSharp Net Remote Re-Work based on the Original of Al Brown
 
+The original version <https://github.com/EarToEarOak/SDRSharp-Net-Remote> will no longer work with SDRSharp Sudio!
 
 Work in Progress...
 
-
-
 A network and serial remote control plugin for SDRSharp Studio.
-
-
 
 Tested on:
 
 - none
 
+## License
 
-## License ##
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
